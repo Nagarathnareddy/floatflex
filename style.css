@@ -1,0 +1,197 @@
+#head
+{
+    text-align: center;
+}
+
+body
+{
+ background-image: url(../float&flex/images.html/flag.jpg);
+ width: 1750px; 
+ height: 1024px;
+ background-attachment: fixed;
+ justify-content: space-between;
+}
+div
+{
+  padding: 0pc;
+  border-radius: 5px;
+  border-style: solid;
+  overflow: hidden;
+  margin: 50px;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  
+}
+#gandhi
+{
+    width: 200px;
+  height: 300px;padding: 0pc;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;  
+  
+  margin: 20px;
+  border-color: green;
+  
+  
+}
+
+
+#nehru
+{
+  width: 200px;
+  height: 300px;padding: 0pc;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;
+  
+  margin: 20px;
+  border-color: green;
+}
+#subash
+{
+    width: 200px;
+  height: 300px;
+  padding: 0pc;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;
+ 
+  margin: 20px;
+  border-color: green;
+}
+#jhansi
+{
+    width: 200px;
+    height: 300px;
+    padding: 0pc;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;
+  
+  margin: 20px;
+  border-color: green;
+}
+#singh
+{
+    width: 200px;
+    height: 300px;
+    padding: 0pc;
+    right: 10px;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;
+  
+  margin: 20px;
+  border-color: green;
+}
+#sardar
+{
+    width: 200px;
+    height: 300px;
+    padding: 0pc;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;
+  
+  margin: 20px;
+  border-color: green;
+}
+#lal
+{
+    width: 200px;
+    height: 300px;
+    padding: 0pc;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;
+  
+  margin: 20px;
+  border-color: green;
+}
+#nana
+{
+    width: 200px;
+    height: 300px;
+    padding: 0pc;
+  border-radius: 20px;
+  border-style: solid;
+  float: left;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  border-color: green;
+}
+#div1
+{
+  border-color:rgb(241, 96, 39); 
+}
+#m1
+{
+ border-color: white;
+
+}
+#m2
+{
+    border-color: white;
+}
+#m3
+{
+    border-color: white;
+}
+#m4
+{
+    border-color: white;
+}
+#m5
+{
+    border-color: white;
+}
+#m6
+{
+    border-color: white;
+}
+#m7
+{
+    border-color: white;
+}
+#maha
+{
+    margin: 20px;
+}
+#jawa
+{
+    margin: 20px;
+}
+#sub
+{
+    margin: 20px;
+}
+#jha
+{
+    margin: 20px;
+}
+#bhaga
+{
+    margin: 20px;  
+    
+}
+
+
+#sar
+{
+    margin: 20px;
+}
+#baha
+{
+    margin: 20px;
+}
+#sahib
+{
+    margin: 20px;
+}
+p::first-letter
+{
+    font-size: 5rem;
+}
